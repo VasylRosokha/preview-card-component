@@ -9,8 +9,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VasylRosokha/social-links-profile)
-- Live Site URL: [Add live site URL here](https://vasylrosokha.github.io/social-links-profile/)
+- Solution URL: [Add solution URL here](https://github.com/VasylRosokha/preview-card-component)
+- Live Site URL: [Add live site URL here](https://vasylrosokha.github.io/preview-card-component/)
 
 ### Built with
 
